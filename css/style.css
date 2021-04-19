@@ -1,0 +1,126 @@
+.bgimg {
+  background-image: url('../img/back.jpg');
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  width: 100%;
+  height: 660px;
+}
+
+.hearderset {
+  padding-top: 150px;
+  box-sizing: border-box;
+}
+
+.hearderset h1 {
+  text-transform: capitalize;
+  color: rgb(16, 255, 68);
+  font-size: 20px;
+  margin-top: 60px;
+}
+
+.hearderset h2 {
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.btn-lg {
+  text-transform: uppercase;
+  font-size: 30px;
+}
+
+/* ourservices */
+
+.ourservices {
+  padding: 100px 0px 60px;
+}
+
+.ourservices h1 {
+  font-size: 60px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+.ourservices p {
+  font-size: 20px;
+  color: rgb(70, 67, 67);
+  margin-top: 30px;
+}
+.rowsat {
+  margin: 80px 0;
+}
+
+.img {
+  border-radius: 50px;
+  height: 100px;
+  width: 100px;
+}
+
+.fa-shopping-cart {
+  margin-top: 18px;
+}
+
+.fa-desktop {
+  margin-top: 19px;
+}
+
+.fa-lock {
+  margin-top: 20px;
+}
+
+.rowsat h2 {
+  font-size: 25px;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+/* protfolio */
+.protfolio {
+  width: 100%;
+  padding: 90px 0px 40px;
+}
+
+.protfolio h1 {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.protfolio h2 {
+  font-size: 40px;
+  font-weight: bold;
+}
+.protfolio p {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.imgprot {
+  width: 100% !important;
+  height: 200px !important;
+}
+
+/* our team */
+
+.ourteam {
+  padding: 100px 0 60px;
+  width: 100%;
+}
+
+.ourteam h1 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.teamset {
+  margin-top: 50px !important;
+}
+
+/* fotter */
+.fotter {
+  height: 50%;
+  margin-bottom: 40px;
+}
+
+.fotter h6 {
+  font-size: 20px;
+}
